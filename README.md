@@ -11,9 +11,9 @@ The website serves as a landing page to present the game, provide information, a
 
 ## 🌐 Live Website
 
-If GitHub Pages is enabled, the site can be accessed here:
+[If GitHub Pages is enabled, the site can be accessed here:
 
-https://your-username.github.io/repository-name/
+https://your-username.github.io/repository-name/](https://jerryydev.github.io/factory-tycoon-x-site/)
 
 ---
 
