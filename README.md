@@ -11,7 +11,7 @@ The website serves as a landing page to present the game, provide information, a
 
 ## 🌐 Live Website
 
-https://jerryydev.github.io/factory-tycoon-x/
+[https://jerryydev.github.io/factory-tycoon-x/](https://jerryydev.github.io/factory-tycoon-x-site/)
 
 ---
 
